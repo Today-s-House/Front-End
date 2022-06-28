@@ -1,6 +1,27 @@
 # 🏠 오늘의 집 클론코딩
 
-# 🏠 오늘의 집 클론코딩
+## 😇‍ 프론트엔드 팀원
+
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/YeonnJ"><img src="https://avatars.githubusercontent.com/u/89297158?v=4" width="100px" /></a></td>
+    <td align="center"><a href="https://github.com/Kopite93"><img src="https://avatars.githubusercontent.com/u/97172828?v=4" width="100px" /></a></td>
+    <td align="center"><a href="https://github.com/ryurim0109"><img src="https://avatars.githubusercontent.com/u/96809979?v=4" width="100px" /></a></td>
+   
+  </tr>
+  <tr>
+    <td align="center"><b>정연재</b></td>
+    <td align="center"><b>천누리</b></td>
+    <td align="center"><b>김유림</b></td>
+    
+  </tr>
+  <tr>
+    <td align="center"><b>🤩 Frontend 🤩 </b></td>
+    <td align="center"><b>🤩 Frontend 🤩 </b></td>
+    <td align="center"><b>🤩 Frontend 🤩 </b></td>
+   
+  </tr>
+</table>
 
 ### ✅ 커밋 종류
 

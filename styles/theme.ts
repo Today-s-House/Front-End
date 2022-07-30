@@ -1,6 +1,6 @@
 const colors = {
   //font
-  title: "#111",
+  main: "#00c7ae",
   subTitle: "#666",
   blueTitle: "#718AFF",
   blueBanner: "#B9EAFF",

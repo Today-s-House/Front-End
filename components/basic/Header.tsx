@@ -4,9 +4,10 @@ import { useRouter } from "next/router";
 
 const Header = () => {
   const router = useRouter();
+  const mainPage = router.pathname === "/";
   return (
     <>
-      <Style.Outter>
+      <Style.Outter mainPage={mainPage}>
         <Style.Inner>
           <Style.RightInner>
             <Style.Logo

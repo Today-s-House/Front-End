@@ -1,9 +1,17 @@
 import styled from "styled-components";
 
-export const Outter = styled.header`
+type OutterType = {
+  mainPage: boolean;
+};
+export const Outter = styled.header<OutterType>`
   width: 100%;
   height: 72px;
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  background: #fff;
+  border-bottom: ${({ mainPage }) => (mainPage ? `none` : "1px solid #fafafa")};
 `;
 export const Inner = styled.div`
   width: 970px;

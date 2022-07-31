@@ -1,4 +1,5 @@
 import type { AppProps } from "next/app";
+import { Head } from "next/document";
 import { QueryClient, QueryClientProvider } from "react-query";
 import { ReactQueryDevtools } from "react-query/devtools";
 import { ThemeProvider } from "styled-components";

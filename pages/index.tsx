@@ -1,16 +1,14 @@
-import React, { useState } from "react";
+import React from "react";
+import Main from "./main";
 import Head from "next/head";
 
 export default function Home() {
   return (
     <>
       <Head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>오늘의집</title>
+        <title>숨고:숨은고수 - 800만명이 선택한 전국민 생활 솔루션</title>
       </Head>
-      <div>
-        <span>오늘의 집이다!!!!</span>
-      </div>
+      <Main />
     </>
   );
 }
